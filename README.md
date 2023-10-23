@@ -3,7 +3,6 @@ This ipython notebook is the <b>Exploratory data analysis (EDA)</b> of the <b>La
 The dataset used has been compiled from first 40 product pages of Flipkart by web scrapping. 
 
 ![Flipkart](flipkart.jpg)
-[Flipkart] : https://1000logos.net/wp-content/uploads/2021/02/Flipkart-logo-500x281.png
 
 ## Packeges Used:
  ![Python][python] ![NumPy][numpy-image] ![Pandas][Pandas-image] ![Matplotlib][Matplotlib-image] ![Plotly][Plotly-image]  ![Jupyter Notebook][ipython-image]
